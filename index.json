@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "openvswitch.openvswitch",
+  "versions": [
+    {
+      "commit": "a1adb384d6192e51dd30ebe8c0555259829483f8",
+      "tag": "",
+      "parsed_at": "2026-11-07T15:54:48.924534+00:00"
+    }
+  ]
+}
