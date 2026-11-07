@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/openvswitch.openvswitch/commit/a1adb384d6192e51dd30ebe8c0555259829483f8",
       "git:hexsha": "a1adb384d6192e51dd30ebe8c0555259829483f8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T15:54:48.921919+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/openvswitch.openvswitch/commit/e8b567492a6d53384c59d5c3d7e41d94d7cd985e",
